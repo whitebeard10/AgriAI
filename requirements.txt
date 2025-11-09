@@ -1,0 +1,14 @@
+streamlit
+pandas
+scikit-learn
+langchain
+transformers
+shap
+plotly
+faiss-cpu
+sentence-transformers
+langchain-community
+unstructured
+markdown
+langchain-openai
+langchain-google-genai
